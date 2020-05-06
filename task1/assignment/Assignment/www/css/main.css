@@ -166,7 +166,7 @@ div.rel{
 
 a.clean{
     color: inherit;
-    text-decoration: none;
+    text-decoration: underline;
 }
 .full-length{
     width: 100%;

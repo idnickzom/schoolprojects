@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.studypack.computer;
+package valentine.assignment.app;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
